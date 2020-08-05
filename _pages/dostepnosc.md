@@ -5,7 +5,7 @@ permalink: /dostepnosc/
 author_profile: true
 ---
 
-## Dostępność na próby - [arkusz google](https://docs.google.com/spreadsheets/d/1DguyWk5O1XiM00rNuJRPKkdf3mxyYfS1XYG4kZTm6Tw)
+## [Arkusz google](https://docs.google.com/spreadsheets/d/1DguyWk5O1XiM00rNuJRPKkdf3mxyYfS1XYG4kZTm6Tw)
 
 <iframe height="500" 
       width="1200"
