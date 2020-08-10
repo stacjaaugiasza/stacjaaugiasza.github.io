@@ -5,8 +5,6 @@ permalink: /naczasie/
 author_profile: true
 ---
 
-# Pomysły
-
 - Fundowanie płyty ***@Mateusz***
   - [ ] Granty
   - [ ] Kayax
